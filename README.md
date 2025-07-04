@@ -5,7 +5,7 @@ Curso de Computer Vision, abordando desde concepos básicos hasta herramientas n
 
 ## Herramientas no-code integrables a workflows de código
 
-- **Roboflow** https://github.com/FerSotoApse/roboflow_laboral-gijon/tree/main
+- **Roboflow object-detection demo** https://github.com/FerSotoApse/roboflow_laboral-gijon/tree/main
 
 
 ## Arquitecturas de ML, DL y Transformers orientados al Computer Vision
